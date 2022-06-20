@@ -8,7 +8,7 @@
 <a href="https://twitter.com/Aniket1Master">
   <img align="left" alt="Aniket Maji | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/aniket-maji-3189471a1/">
+<a href="https://www.linkedin.com/in/aniket-maji-3189471a1/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
