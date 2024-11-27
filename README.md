@@ -1,5 +1,13 @@
 # 💫 About Me:
-## Hi there! I'm [Your Name] 👋<br><br>I'm a passionate developer who loves to build creative and impactful projects. Whether it's working with **JavaScript**, **Python**, or exploring the latest **AI/ML** technologies, I enjoy solving complex problems and learning new skills along the way.<br><br>### 🚀 Current Focus<br>I'm currently focused on:<br>- Building and improving open-source projects<br>- Learning **Machine Learning** and **AI** applications<br>- Contributing to community-driven initiatives<br><br>### 💻 Languages & Tools:<br>- **Languages**: JavaScript, Python, Java, TypeScript, SQL<br>- **Frameworks**: React, Node.js, Django, Flask<br>- **Tools**: Git, Docker, AWS, Firebase, Jenkins<br><br>### 🌱 I'm currently learning:<br>- **Deep Learning** and **Natural Language Processing (NLP)**<br>- **Blockchain Development**<br>- **Cloud Computing** and **Serverless Architectures**<br><br>### 📝 Latest Projects<br>Here are a few of my recent projects that I’m excited about:<br>- [Project 1 Name](link) - A short description of the project.<br>- [Project 2 Name](link) - A short description of the project.<br>- [Project 3 Name](link) - A short description of the project.<br><br>### 📬 Let's Connect!<br>- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)<br>- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)<br>- **Website/Portfolio**: [Your Portfolio](https://your-portfolio.com)<br><br>Feel free to check out my repositories or reach out to me if you'd like to collaborate or chat about tech!<br><br>Thanks for visiting! 😊<br>
+## Hi, i'm [Aniket Maji](https://builderpro.tech/), a passionate self-taught full stack web developer,machine learning engineer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:aniketmaji265@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 
 ## 🌐 Socials:
